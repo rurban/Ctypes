@@ -1052,7 +1052,7 @@ OUTPUT:
   RETVAL
 
 void
-validate(arg_sv, typecode)
+_validate(arg_sv, typecode)
   SV* arg_sv;
   char typecode;
 PPCODE:

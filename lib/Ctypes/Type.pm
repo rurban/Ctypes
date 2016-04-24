@@ -369,7 +369,7 @@ for how to do this to individual objects
 
 =cut
 
-sub is_a_number { looks_like_number(shift) }
+#sub is_a_number { looks_like_number(shift) }
 
 =head1 SEE ALSO
 
